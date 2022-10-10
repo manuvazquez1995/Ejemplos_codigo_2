@@ -4,6 +4,7 @@
 int funcionSuma(int a, int b);
 
 void main(){
+	
 	int n1;
 	int n2;
 	int suma;
